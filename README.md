@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0643-maximum-average-subarray-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 ## String
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
