@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 ## String
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
