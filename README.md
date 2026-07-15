@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0941-valid-mountain-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
