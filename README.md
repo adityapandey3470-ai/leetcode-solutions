@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
