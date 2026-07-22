@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
