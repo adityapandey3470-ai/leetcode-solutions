@@ -14,10 +14,6 @@ class Solution {
              } else {
                 secondLargest = Math.max(secondLargest, digit);
              }
-
-
-
-       
         }
        return largest * secondLargest;
     }
