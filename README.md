@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [3866-first-unique-even-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## String
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3866-first-unique-even-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [3866-first-unique-even-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Prefix Sum
 |  |
