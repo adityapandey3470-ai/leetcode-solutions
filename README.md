@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
 ## Matrix
 |  |
 | ------- |
@@ -199,4 +202,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
