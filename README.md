@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -181,11 +182,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
