@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
