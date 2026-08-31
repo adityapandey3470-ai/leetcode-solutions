@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
