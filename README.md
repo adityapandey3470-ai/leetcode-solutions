@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
