@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1796-second-largest-digit-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 ## Math
