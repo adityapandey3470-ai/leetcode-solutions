@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -268,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
