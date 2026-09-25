@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -274,4 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
