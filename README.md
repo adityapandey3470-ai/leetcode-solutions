@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2490-circular-sentence](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2490-circular-sentence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String Matching
 |  |
