@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Pigeonhole Principle
 |  |
 | ------- |
