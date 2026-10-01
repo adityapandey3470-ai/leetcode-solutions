@@ -1,25 +1,45 @@
 class Solution {
-    public int maximumProduct(int[] arr) {
-        // int product = 1;
-        // int max = 0;
+    public int maximumProduct(int[] nums) {
+
+        int productM = 1;
+        int productN = 1; 
+        // m = max and n = min.
+        int m1 = Integer.MIN_VALUE;
+        int m2 = Integer.MIN_VALUE;
+        int m3 = Integer.MIN_VALUE;
+
+        int n1 = Integer.MAX_VALUE;
+        int n2 = Integer.MAX_VALUE;
         
-        // for(int i = 0; i < nums.length; i++){
+        for(int i = 0; i < nums.length; i++){
 
-        //     if(Math.abs(nums[i]) > max){
-        //         max = nums[i];
-        //     }
+            if(nums[i] > m1){
+                m3 = m2;
+                m2 = m1;
+                m1 = nums[i];
+            }
+            else if(nums[i] > m2){
+                m3 = m2;
+                m2 = nums[i];
+            }
+            else if(nums[i] > m3){
+                m3 = nums[i];
+            }
+           
+           if(nums[i] < n1){
+            n2 = n1;
+            n1 = nums[i];
+           }
+           else if(nums[i] < n2){
+            n2 = nums[i];
+           }
 
-        //     product = product * max;
+            productM = m1 * m2 * m3;
+            productN = n1 * n2 * m1;
 
-        // }
-        // return product;
+        }
+        return Math.max(productM, productN);
 
-        Arrays.sort(arr);
-        int n = arr.length;
-        int option1 = arr[n - 1] * arr[n - 2] * arr[n - 3];
-        int option2 = arr[0] * arr[1] * arr[n - 1];
-        
-        return Math.max(option1, option2);
     
     }
 }
