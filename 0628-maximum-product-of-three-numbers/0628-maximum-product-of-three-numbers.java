@@ -1,8 +1,7 @@
 class Solution {
     public int maximumProduct(int[] nums) {
 
-        int productM = 1;
-        int productN = 1; 
+       
         // m = max and n = min.
         int m1 = Integer.MIN_VALUE;
         int m2 = Integer.MIN_VALUE;
@@ -34,11 +33,8 @@ class Solution {
             n2 = nums[i];
            }
 
-            productM = m1 * m2 * m3;
-            productN = n1 * n2 * m1;
-
         }
-        return Math.max(productM, productN);
+        return Math.max( m1 * m2 * m3, n1 * n2 * m1);
 
     
     }
