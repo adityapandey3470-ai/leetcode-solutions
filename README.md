@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0443-string-compression) |
+| [0844-backspace-string-compare](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
