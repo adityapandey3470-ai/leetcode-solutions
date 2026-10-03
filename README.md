@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [1148-article-views-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Stack
 |  |
 | ------- |
