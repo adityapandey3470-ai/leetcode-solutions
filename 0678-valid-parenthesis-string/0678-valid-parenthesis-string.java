@@ -11,7 +11,7 @@ class Solution {
             }else if(s.charAt(i) == ')'){
                 min--;
                 max--;
-            }else{
+            }else if(s.charAt(i) == '*'){
                 min--;
                 max++;
 
