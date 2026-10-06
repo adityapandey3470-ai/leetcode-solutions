@@ -8,7 +8,10 @@ class Solution {
         while (n % 4 == 0) {
             n = n / 4;
         }
+        if(n == 1){
+            return true;
+        }
 
-        return n == 1;
+       return false;
     }
 }
