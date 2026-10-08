@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2544-alternating-digit-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
