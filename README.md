@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2544-alternating-digit-sum) |
 | [2652-sum-multiples](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
