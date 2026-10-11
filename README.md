@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/adityapandey3470-ai/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
